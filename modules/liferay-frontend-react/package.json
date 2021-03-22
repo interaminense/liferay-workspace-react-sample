@@ -10,7 +10,7 @@
 		"babel-preset-react": "6.24.1",
 		"liferay-npm-bundler": "2.18.2"
 	},
-	"main": "lib/index.es.js",
+	"main": "js/index.es.js",
 	"name": "liferay-frontend-react",
 	"scripts": {
 		"build": "babel --source-maps -d build/resources/main/META-INF/resources src/main/resources/META-INF/resources && liferay-npm-bundler"
