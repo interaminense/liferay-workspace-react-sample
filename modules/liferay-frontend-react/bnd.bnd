@@ -1,0 +1,5 @@
+Bundle-Name: liferay-frontend-react
+Bundle-SymbolicName: liferay.frontend.react
+Bundle-Version: 1.0.0
+Export-Package: liferay.frontend.react.constants
+Web-ContextPath: /liferay-frontend-react
